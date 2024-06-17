@@ -1,3 +1,26 @@
+## rqt_image_view (jazzy) - 1.3.0-3
+
+The packages in the `rqt_image_view` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rqt_image_view --override-release-repository-push-url git@github.com:revyos-ros/rqt_image_view-release.git` on `Mon, 17 Jun 2024 08:55:44 -0000`
+
+The `rqt_image_view` package was released.
+
+Version of package(s) in repository `rqt_image_view`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_image_view.git
+- release repository: https://github.com/ros2-gbp/rqt_image_view-release.git
+- rosdistro version: `1.3.0-2`
+- old version: `1.3.0-2`
+- new version: `1.3.0-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_image_view (rolling) - 1.3.0-1
 
 The packages in the `rqt_image_view` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling rqt_image_view` on `Wed, 17 Apr 2024 15:38:57 -0000`
